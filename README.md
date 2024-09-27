@@ -23,4 +23,4 @@ JavaScript for game logic and interactivity
 How to Play
 Open the game in your browser.
 The game will announce the appropriate winner.
-Click the "Reset game" button to Reset.
+Click the "Reset game" button  to Reset.
